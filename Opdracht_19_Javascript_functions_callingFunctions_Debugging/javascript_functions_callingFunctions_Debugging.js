@@ -1,6 +1,6 @@
 console.log("Javascript and Node are working");
 
-// FUNCTION 1> RETURN function that DO something> Checking if a number is big
+// FUNCTION 1> Debugging
 
 const makePositive = function (number) {
   console.log("Entering makePositive..");
